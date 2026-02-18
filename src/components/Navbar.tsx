@@ -50,7 +50,7 @@ export default function Navbar() {
                 scrolled ? "text-brand-green" : "text-white"
               }`}
             >
-              GrainVista
+              Ganindra International
             </div>
             <div
               className={`font-body text-[9px] tracking-[0.2em] uppercase leading-none ${

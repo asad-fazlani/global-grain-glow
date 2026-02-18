@@ -97,8 +97,8 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <div className="font-body text-xs font-semibold text-brand-gold uppercase tracking-wide mb-1">Email</div>
-                    <div className="font-body text-sm text-foreground">exports@grainvista.in</div>
-                    <div className="font-body text-sm text-foreground">info@grainvista.in</div>
+                    <div className="font-body text-sm text-foreground">exports@ganindra.in</div>
+                    <div className="font-body text-sm text-foreground">info@ganindra.in</div>
                   </div>
                 </div>
               </div>

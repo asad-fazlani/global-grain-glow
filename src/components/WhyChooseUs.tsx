@@ -48,7 +48,7 @@ export default function WhyChooseUs() {
           <p className="section-label mb-4">Why Choose Us</p>
           <div className="gold-divider mx-auto mb-6" />
           <h2 className="font-display text-4xl md:text-5xl font-bold text-brand-green mb-4">
-            The GrainVista Advantage
+            The Ganindra Advantage
           </h2>
           <p className="font-body text-muted-foreground max-w-2xl mx-auto">
             We are more than exporters — we are your long-term partners in rice procurement, built on transparency, quality, and trust.
