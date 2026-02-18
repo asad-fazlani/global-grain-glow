@@ -43,8 +43,8 @@ export default function Footer() {
                 <Leaf className="w-5 h-5 text-brand-ivory" />
               </div>
               <div>
-                <div className="font-display font-bold text-lg leading-tight text-white">GrainVista</div>
-                <div className="font-body text-[9px] tracking-[0.2em] uppercase text-brand-gold leading-none">
+                <div className="font-display font-bold text-lg leading-tight text-white">Ganindra International</div>
+            <div className="font-body text-[9px] tracking-[0.2em] uppercase text-brand-gold leading-none">
                   Premium Rice Exports
                 </div>
               </div>
@@ -124,7 +124,7 @@ export default function Footer() {
               </div>
               <div>
                 <div className="font-body text-xs text-brand-gold uppercase tracking-wide mb-1">Email</div>
-                <div className="font-body text-sm text-white/60">exports@grainvista.in</div>
+                <div className="font-body text-sm text-white/60">exports@ganindra.in</div>
               </div>
             </div>
           </div>
@@ -146,7 +146,7 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="container-max px-4 md:px-8 lg:px-16 py-5 flex flex-col md:flex-row items-center justify-between gap-3">
           <p className="font-body text-xs text-white/40 text-center md:text-left">
-            © {new Date().getFullYear()} GrainVista Exports Pvt. Ltd. All rights reserved. Made in India 🇮🇳
+            © {new Date().getFullYear()} Ganindra International Pvt. Ltd. All rights reserved. Made in India 🇮🇳
           </p>
           <button
             onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}

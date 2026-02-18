@@ -32,7 +32,7 @@ export default function AboutSection() {
               <span className="block text-brand-gold">Built for the World</span>
             </h2>
             <p className="font-body text-base text-muted-foreground leading-relaxed mb-4">
-              GrainVista Exports is one of India's most trusted rice exporters, headquartered in the fertile plains
+              Ganindra International is one of India's most trusted rice exporters, headquartered in the fertile plains
               of Haryana. With over 25 years of industry expertise, we have established an unshakeable reputation
               for delivering premium-quality rice grains to markets spanning the Middle East, Europe, the Americas,
               Africa, and Southeast Asia.
